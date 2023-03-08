@@ -18,3 +18,4 @@ while True:
     else:
         break
 print(f'Total Profit for the {day} is: {total_profit}')
+,
